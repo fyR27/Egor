@@ -1,4 +1,3 @@
-# Egor
 Telephone directory
 
 Добро пожаловать в мой код!
