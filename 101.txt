@@ -1,0 +1,71 @@
+Surname              Name                 Middle name          Company              Company phone        Mobile phone
+Mironov              Egor                 Vdaslavovich         BGTU                 252068               +79143106697
+Somov                Evgeniy              Alekseevich          Apple                305670               +79871723517
+Arkanov              Alisa                Vladislavovna        School               806745               +79602705227
+Onegin               Evgeniy              Igorevich            Book                 777777               +79254667532
+Miroslavskiy         Andrew               Jones                Appleton             795633               +79415567311
+Vavilov              Aleksandr            Aleksandrovich       Gazprom              203040               +79954231143
+Glebova              Nina                 Victorovna           Lukoil               223670               +79949276542
+Dzhafarov            Anatoly              Alekseyevich         Tat neft             106893               +79949954521
+Sergeyev             Valentin             Anatolyevich         Rosneft              779081               +79954667783
+Fedorova             Oksana               Pavlovna             Gazprom              203040               +79949967788
+Zharova              Olga                 Petrovna             Gazprom              203040               +79949932135
+Zhilina              Polina               Romanovna            Tat neft             106893               +79949989034
+Zhzhenov             Andrey               Andreyevich          Lukoil               223670               +79931255653
+Zhuravleva           Alisa                Konstantinovna       Surf coffe           909911               +79931546561
+Aksenova             Albina               Petrovna             Rosneft              779081               +79932131545
+Pechyonkina          Angelina             Olegovna             Gazprom              203040               +79943211564
+Dezhneva             Varvara              Nikolayevna          Surf coffe           909911               +79947688632
+Arzhanov             Anton                Antonovich           Tat neft             106893               +79942557273
+Zhzhenov             Artem                Arkadyevich          Lukoil               223670               +79987931433
+Lebedeva             Tamara               Semyonovna           Surf coffe           909911               +79949978973
+Yeltsov              Artur                Arkadyevich          Rosneft              779081               +79931667212
+Isayev               Boris                Borisovich           Lukoil               223670               +79949965789
+Minina               Ella                 Lvovna               Surf coffe           909911               +79949952131
+Nikiforova           Elvira               Dmitriyevna          Tat neft             106893               +76461231232
+Zaykov               Vadim                Denisovich           Rosneft              779081               +79945689312
+Zaikov               Valentin             Dmitriyevich         Gazprom              203040               +79949000032
+Buynov               Valeriy              Fedorovich           Surf coffe           909911               +79949921312
+Buinov               Viktor               Filippovich          Lukoil               223670               +79949954356
+Zeynalova            Yana                 Nikitichna           Rosneft              779081               +79949912621
+Zeinalova            Ksenia               Matveyevna           Gazprom              203040               +79949945421
+Mayorov              Vitaly               Georgiyevich         Surf coffe           909911               +79947553123
+Chuhray              Vladimir             Grigoryevich         Lukoil               223670               +79949963774
+Chukhrai             Vladislav            Ignatyevich          Rosneft              779081               +79949686762
+Donskoy              Gennady              Igorevich            Gazprom              203040               +79132O43412
+Svetlov              Georgy               Ilyich               Surf coffe           909911               +79949436745
+Smirnov              Gleb                 Ivanovich            Tat neft             106893               +79965651235
+Loseva               Lyudmila             Igorevna             Surf coffe           909911               +79946475457
+Afanasyeva           Liliya               Timofeyevna          Lukoil               223670               +79949953423
+Nastasyin            Daniil               Konstantinovich      Rosneft              779081               +79949965785
+Kostin               Denis                Leonidovich          Lukoil               223670               +79949965721
+Kharlamov            Dmitry               Lvovich              Rosneft              779081               +79949956768
+Harlamov             Yevgeny              Maksimovich          Gazprom              203040               +79986999999
+Kholodov             Zakhar               Matveyevich          Rosneft              779081               +79949934212
+Holodov              Ivan                 Mikhailovich         Tat neft             106893               +79949959423
+Khorkov              Ilya                 Nikitich             Rosneft              779081               +79949951434
+Horkov               Kirill               Nikolayevich         Lukoil               223670               +79949942176
+Khokhlov             Lev                  Olegovich            Rosneft              779081               +79949959875
+Hohlov               Mikhail              Pavlovich            Tat neft             106893               +79941672958
+Akhmedov             Nikita               Yegorovich           Gazprom              203040               +79216858214
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
