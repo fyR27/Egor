@@ -1,5 +1,5 @@
 Telephone directory
-
+![pythonProject-–-main py-2023-09-01-17-42-44](https://github.com/fyR27/Telephone-directory/assets/130695351/e84f3fb4-aaba-4e20-8f72-88dd9e211e87)
 Добро пожаловать в мой код!
 Ответственные лица, которые занимались:
 1.	Написанием основного кода (Егор)
