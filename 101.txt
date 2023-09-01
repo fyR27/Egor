@@ -48,24 +48,3 @@ Horkov               Kirill               Nikolayevich         Lukoil           
 Khokhlov             Lev                  Olegovich            Rosneft              779081               +79949959875
 Hohlov               Mikhail              Pavlovich            Tat neft             106893               +79941672958
 Akhmedov             Nikita               Yegorovich           Gazprom              203040               +79216858214
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
