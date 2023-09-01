@@ -11,7 +11,7 @@ def request1():  # рекурсия созданная для обработки
                 if surname in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит фамилию
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
             # дальнейшего взаимодействия с программой
@@ -24,7 +24,7 @@ def request1():  # рекурсия созданная для обработки
                 if name in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит имя
             print(' ----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
             # дальнейшего взаимодействия с программой
@@ -37,7 +37,7 @@ def request1():  # рекурсия созданная для обработки
                 if middle_name in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит отчество
             print(' ----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 \n '
+                  'Did you find everything you were looking for? \n If YES: press 0 \n '
                   'Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n -----------------------'
                   '------------------------')  # вывод на экран способов
@@ -51,7 +51,7 @@ def request1():  # рекурсия созданная для обработки
                 if company in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит компанию
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
             # дальнейшего взаимодействия с программой
@@ -64,7 +64,7 @@ def request1():  # рекурсия созданная для обработки
                 if company_phone in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит номер компании
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
             # дальнейшего взаимодействия с программой
@@ -77,7 +77,7 @@ def request1():  # рекурсия созданная для обработки
                 if mobile_phone in line:  # проверка выполняемости условия поска
                     print(line)  # вывод нужной строки которая содержит номер телефона
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
             # дальнейшего взаимодействия с программой
@@ -90,7 +90,7 @@ def dict1():  # основная рекурсия для работы прогр
         with open('101.txt', 'r', encoding='utf-8') as file:  # открытие файла для дальнейшей работы с ним
             print(file.read())  # вывод содержимого файла
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 '
+                  'Did you find everything you were looking for? \n If YES: press 0 '
                   '\n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n -----------------------'
                   '------------------------')  # вывод на экран способов
@@ -159,7 +159,7 @@ def dict1():  # основная рекурсия для работы прогр
             file.write(res)  # запись новой строки в записную книжку, как говорил ранее информация буджет записана
             # в конец книжки
             print('----------------------------------------------- \n '
-                  ' Did you find everything you were looking for? \n If YES: press 0 \n '
+                  'Did you find everything you were looking for? \n If YES: press 0 \n '
                   'Else select what you want to do: \n'
                   ' 1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n ------------------------'
                   '-----------------------')  # вывод на экран способов
@@ -260,7 +260,7 @@ def dict1():  # основная рекурсия для работы прогр
             with open('101.txt', 'w') as file:  # открытие файла на запись
                 file.writelines(line)  # запись строк в файл, причем позиция строк останется прежней
             print(' ----------------------------------------------- \n '
-                  ' Did you did everything you were looking for? \n'
+                  'Did you did everything you were looking for? \n'
                   ' ----------------------------------------------- '
                   '\n If YES: press 0 \n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
@@ -270,7 +270,7 @@ def dict1():  # основная рекурсия для работы прогр
         if c == real_c:
             print('Error the program did not find anything')
             print(' ----------------------------------------------- \n '
-                  ' Did you did everything you were looking for? \n'
+                  'Did you did everything you were looking for? \n'
                   ' ----------------------------------------------- '
                   '\n If YES: press 0 \n Else select what you want to do: \n '
                   '1 : View data \n 2 : Add note \n 3 : Edit note \n 4 : Find note \n')  # вывод на экран способов
@@ -278,10 +278,6 @@ def dict1():  # основная рекурсия для работы прогр
             return dict1()
 
     elif x == 4:  # заход в цикл если пользователь захотел посмотреть определенные данные в строке
-        print('----------------------------------------------- \n '
-              'What do you want to find? \n 1 : Surname \n 2 : Name \n 3 : Middle name \n --------------'
-              '---------------------------------')  # вывод на экран способов
-        # дальнейшего взаимодействия с программой
         request1()  # вызов рекурсии поиска
 
     elif x == 0:  # заход в цикл если пользователь понял что приложение слишком крутое и решил выйти из него
